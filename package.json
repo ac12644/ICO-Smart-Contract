@@ -1,0 +1,26 @@
+{
+  "name": "ico",
+  "version": "1.0.0",
+  "description": "Create your initial coin offering(ICO) contract in Ethereum",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ico",
+    "token",
+    "ethereum"
+  ],
+  "author": "Abhishek Chauhan",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.3",
+    "chai": "^4.3.6",
+    "chai-as-promised": "^7.1.1",
+    "chai-bignumber": "^3.0.0",
+    "web3": "^1.7.5"
+  }
+}
