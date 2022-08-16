@@ -18,16 +18,8 @@
 
 ## About
 
-[![Product Name Screen Shot][product-screenshot]]()
-[![Product Name Screen Shot][product-screenshot2]]()
-
-Marketplace Functions:
-
-- When a user puts an NFT for sale, the ownership of the NFT gets transferred from the creator to the marketplace contract 📝.
-
-- When a user purchases an NFT, the purchase price is transferred from the buyer to the seller and so the item will be transferred from the marketplace to the buyer🧑.
-
-- The marketplace owner is able to set a listing fee. This fee is taken from the seller and transferred to the contract owner upon completion of any sale, enabling the owner of the marketplace to earn recurring revenue from any sale transacted in the marketplace.
+- Building your own Initial Coin Offering
+- Adding features like crowdsale & whitelist to the ICO contract
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
