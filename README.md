@@ -26,7 +26,7 @@
 ### Built With
 
 - [Truffle](https://trufflesuite.com/)
-- [Solidity](https://docs.soliditylang.org/)
+- [Solidity-v0.4.23](https://docs.soliditylang.org/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
