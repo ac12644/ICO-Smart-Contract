@@ -36,7 +36,7 @@
 
 1. Clone the repo
    ```sh
-     git clone https://github.com/ac12644/ICO-Token.git
+   git clone https://github.com/ac12644/ICO-Token.git
    ```
 2. Install packages
    ```sh
